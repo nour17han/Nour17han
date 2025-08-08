@@ -3,7 +3,7 @@
  ### About Me
 Hello! I'm nourhan yasser aspiring Egyptian  **Data Analyst** who loves transforming raw data into actionable insights. Whether it’s wrangling complex datasets or visualizing trends, I thrive on making data-driven decisions and helping teams unlock the power of their data.
 
-# #Skills & Expertise
+# Skills & Expertise
 
 - **Excel:** Advanced data manipulation, visualization, and reporting
 - **Power BI:** Interactive dashboards
