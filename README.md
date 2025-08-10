@@ -43,6 +43,22 @@ in this project I have a data set contains data about products we need to clarif
 -each category total sales,count to orders, max and min item's price 
 -discounted products Vs Full-Priced products
 
+
+## Sales Performance Dashboard:
+
+<img width="490" height="268" alt="Sales2" src="https://github.com/user-attachments/assets/9b16ae84-b80b-421f-a402-10e945ce15d6" />
+
+Tool:
+Excel
+
+Description:
+This Power BI dashboard analyzes sales, revenue, and profit across different menu items and time periods
+
+
+
+
+
+
 ## Bike Sales Analysis Dashboard
 <img width="737" height="272" alt="Excel 2" src="https://github.com/user-attachments/assets/0f5e1a4e-0157-47c5-87da-d7e3aae56c77" />
 
