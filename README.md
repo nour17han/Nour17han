@@ -19,13 +19,14 @@ Hello! I'm nourhan yasser aspiring Egyptian  **Data Analyst** who loves transfor
 
  Describtion:
  
-in this project I have a data set contains data about products we need to clarify 
+in this project I have a data set contains data about products we need to clarify :
 -the top-10 Products and identify 
 -each category total sales,count to orders, max and min item's price 
 -discounted products Vs Full-Priced products
 
 ## Bike Sales Analysis Dashboard
-<img width="960" height="280" alt="Excel 2" src="https://github.com/user-attachments/assets/365853ae-cfe3-4424-a595-66b70f68d2af" />
+<img width="737" height="272" alt="Excel 2" src="https://github.com/user-attachments/assets/0f5e1a4e-0157-47c5-87da-d7e3aae56c77" />
+
 
 Describition
 This dashboard explores bike purchasing behavior across key demographic and lifestyle factors.
@@ -34,6 +35,10 @@ Key insights:
 -Purchases by Age Group
 -Parent Status Impact
 -Commuting Distance
+
+
+
+
 
 
 
