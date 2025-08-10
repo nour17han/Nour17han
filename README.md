@@ -74,16 +74,3 @@ Tools:
 
 
 
-
-
-
-
-
-
-
-📈 GitHub Stats:
-
-![nour17han's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour17han&show_icons=true&theme=radical)
-
-_✨ I’m always open to exciting collaborations, learning opportunities, and connecting with fellow data enthusiasts! Check out my projects or drop a message!_
-
