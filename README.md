@@ -13,6 +13,10 @@ Hello! I'm nourhan yasser aspiring Egyptian  **Data Analyst** who loves transfor
      ## Product's Analysis dashboard:
   <img width="478" height="277" alt="image" src="https://github.com/user-attachments/assets/6766578b-aab4-418b-af5f-f013cf1fd45b" />
 
+  Tools:
+-Power_Query
+-Power-Bi
+
  Describtion:
  
 in this project I have a data set contains data about products we need to clarify 
@@ -20,9 +24,20 @@ in this project I have a data set contains data about products we need to clarif
 -each category total sales,count to orders, max and min item's price 
 -discounted products Vs Full-Priced products
 
-Tools:
--Power_Query
--Power-Bi
+## Bike Sales Analysis Dashboard
+<img width="960" height="280" alt="Excel 2" src="https://github.com/user-attachments/assets/365853ae-cfe3-4424-a595-66b70f68d2af" />
+
+Describition
+This dashboard explores bike purchasing behavior across key demographic and lifestyle factors.
+
+Key insights:
+-Purchases by Age Group
+-Parent Status Impact
+-Commuting Distance
+
+
+
+
 
 
 📈 GitHub Stats:
