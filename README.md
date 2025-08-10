@@ -9,15 +9,34 @@ Hello! I'm nourhan yasser aspiring Egyptian  **Data Analyst** who loves transfor
 - **Power BI:** Interactive dashboards
 - **SQL:** Data querying, cleaning, and ETL processes
 
+
+
   # Projects:
-     ## Product's Analysis dashboard:
+
+  ## Project Management Dashboard:
+  <img width="517" height="281" alt="projects dash" src="https://github.com/user-attachments/assets/6f9fd2d0-d588-4e44-881c-2b492dc43092" />
+
+Tool:
+Power_Bi
+
+Description:
+This Power BI dashboard provides a strategic overview of project performance across multiple dimensions—type, region, phase, and financial impact.
+Key Features:
+Project Portfolio Breakdown: Categorizes projects by type—Cost Reduction, Income Generation, Process Improvement, and Working Capital Improvement.
+Completion by Phase: Visualizes project progress across five phases, highlighting bottlenecks and implementation momentum.
+Yearly Financial Trends: Bar chart comparing project costs vs. benefits from 2021 to 2025, revealing shifts in investment efficiency.
+  
+
+
+
+   ## Product's Analysis dashboard:
   <img width="478" height="277" alt="image" src="https://github.com/user-attachments/assets/6766578b-aab4-418b-af5f-f013cf1fd45b" />
 
    Tools:
          PowerQuery
          Power-Bi
 
-  Describtion:
+  Description:
  
 in this project I have a data set contains data about products we need to clarify :
 -the top-10 Products and identify 
@@ -30,7 +49,7 @@ in this project I have a data set contains data about products we need to clarif
 Tools:
    Excel 
 
- Describition
+ Descripition
   This dashboard explores bike purchasing behavior across key demographic and lifestyle factors.
   Key insights:
                 Purchases by Age Group
